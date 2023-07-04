@@ -1,0 +1,6 @@
+Algoritmo usado.
+Trepa-colinas normal.,dwt234.txt
+Runs,Numero de Iteracoes,Vizinho Normal,Mutacao por Troca,Populacao,Numero de Geracoes,Probabilidade de Recombinacao,Probabilidade de Mutacao
+30,10000,sim,não,0,0,0.00,0.00
+Media,,Melhor Resultado Encontrado
+131.90,123

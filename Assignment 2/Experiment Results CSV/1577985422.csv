@@ -1,0 +1,6 @@
+Algoritmo usado.
+Trepa-colinas normal.
+Runs,Numero de Iteracoes,Vizinho Normal,Mutacao por Troca,Populacao,Numero de Geracoes,Probabilidade de Recombinacao,Probabilidade de Mutacao
+100,1000,sim,não,0,0,0.00,0.00
+Media,,Melhor Resultado Encontrado
+16.20,11

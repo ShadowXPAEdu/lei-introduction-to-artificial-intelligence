@@ -1,0 +1,6 @@
+Algoritmo usado.
+Algoritmo hibrido. 2 e 3,bcspwr02.txt
+Runs,Numero de Iteracoes,Vizinho Normal,Mutacao por Troca,Populacao,Numero de Geracoes,Probabilidade de Recombinacao,Probabilidade de Mutacao
+30,50,não,sim,10,2500,0.30,0.05
+Media,Melhor Resultado Encontrado
+12.17,11

@@ -1,0 +1,6 @@
+Algoritmo usado.
+Trepa-colinas vizinho alterado.,bcspwr03.txt
+Runs,Numero de Iteracoes,Vizinho Normal,Mutacao por Troca,Populacao,Numero de Geracoes,Probabilidade de Recombinacao,Probabilidade de Mutacao
+30,10000,não,não,0,0,0.00,0.00
+Media,,Melhor Resultado Encontrado
+52.07,47

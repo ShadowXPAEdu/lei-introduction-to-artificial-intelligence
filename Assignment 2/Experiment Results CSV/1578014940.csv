@@ -1,0 +1,6 @@
+Algoritmo usado.
+Algoritmo evolutivo (Selecao por torneio; Crossover double-point; Mutacao por troca).,bcspwr03.txt
+Runs,Numero de Iteracoes,Vizinho Normal,Mutacao por Troca,Populacao,Numero de Geracoes,Probabilidade de Recombinacao,Probabilidade de Mutacao
+30,0,não,sim,30,2500,0.30,0.05
+Media,Melhor Resultado Encontrado
+80.97,74
